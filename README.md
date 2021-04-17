@@ -3,7 +3,7 @@
 I'm a app/software developer from the Nepal
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/newar.bhai11) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/newar_bhai) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujansth/) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nepkoder) [![Website](https://img.shields.io/website?label=nepkoder&style=for-the-badge&url=https%3A%2F%2Fkvntzn.github.io)](https://sujansth.com.np)
-- 📱 I’m currently working on android & frontend development!
+- 📱 I’m currently working on mobile & frontend/backend development!
 - 🌱 I’m currently learning up to date technology trends
 - 💂‍ I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Develop some creative/interesting projects
